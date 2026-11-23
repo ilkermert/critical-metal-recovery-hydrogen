@@ -6,7 +6,7 @@
 
 This repository contains methodological documentation, representative code excerpts and the numerical input data for the research article (in preparation for *Renewable and Sustainable Energy Reviews*, special issue "Embedding Circular Practices into Renewable and Sustainable Energy Production and Management").
 
-Repository: [repository URL]
+Repository: https://github.com/ilkermert/critical-metal-recovery-hydrogen
 
 ## About the Study
 
@@ -273,8 +273,8 @@ Released under the MIT License (see LICENSE).
 
 ## Contact and Data Availability
 
-The numerical input data of the study are given in the tables of this README, and representative code excerpts of the core methodological steps are given in the method sections above. The complete analysis script and the consolidated input dataset are not shared at this time because the same code base is being used in other ongoing studies. They are available from the corresponding author on reasonable request. Summary results of all analyses are provided in the Supplementary Material of the paper.
+The numerical input data of the study are given in the tables of this README, and representative code excerpts of the core methodological steps are given in the method sections above. The complete analysis script is not shared at this time because the same code base is being used in other ongoing studies. It is available from the corresponding author on reasonable request. The consolidated input dataset and the Web of Science records are not redistributed. Summary results of all analyses are provided in the Supplementary Material of the paper.
 
-Maintainer: İlker Mert ([e-mail])
+Maintainer: İlker Mert (ilkermert@osmaniye.edu.tr)
 
 Note on scope. The code blocks above are representative excerpts of the core methodological steps, included for transparency. This repository does not allow all tables and figures of the paper to be reproduced by running a script.
