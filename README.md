@@ -2,7 +2,7 @@
 
 **Recycling Scenarios, Variance Decomposition and Iridium Material Flow in PEM and Alkaline Systems**
 
-**Author:** İlker Mert*
+**Author:** Hüseyin Yağlı, İlker Mert*
 
 This repository contains methodological documentation, representative code excerpts and the numerical input data for the research article (in preparation for *Renewable and Sustainable Energy Reviews*, special issue "Embedding Circular Practices into Renewable and Sustainable Energy Production and Management").
 
